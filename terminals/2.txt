@@ -1,0 +1,9 @@
+---
+pid: 23452
+cwd: |
+  C:\Users\SKTelecom
+---
+PS C:\Users\SKTelecom> 
+ *  History restored 
+
+PS C:\Users\SKTelecom> 

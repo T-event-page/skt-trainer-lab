@@ -1,0 +1,6 @@
+---
+pid: 21940
+cwd: |
+  C:\Users\SKTelecom
+---
+PS C:\Users\SKTelecom> 
